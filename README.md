@@ -1,20 +1,18 @@
 # NumPy Exercises
 
-In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
+numpy review with numpy_exercises (forked from Kyubyong/numpy_exercises)
 
-  * Array creation routines (DONE)
-  * Array manipulation routines (DONE)
-  * String operations (DONE)
-  * Numpy-specific help functions (DONE)
-  * Input and output (DONE)
-  * Linear algebra (DONE)
-  * Discrete Fourier Transform (DONE)
-  * Logic functions (DONE)
-  * Mathematical functions (DONE)
-  * Random sampling (numpy.random) (DONE)
-  * Set routines (DONE)
-  * Sorting, searching, and counting (DONE)
-  * Statistics (DONE)
 
-Nov., 2016
-Kyubyong
+  * Array creation routines (DONE) 2020-05-29
+  * Array manipulation routines 
+  * String operations 
+  * Numpy-specific help functions 
+  * Input and output 
+  * Linear algebra 
+  * Discrete Fourier Transform 
+  * Logic functions 
+  * Mathematical functions 
+  * Random sampling (numpy.random)
+  * Set routines 
+  * Sorting, searching, and counting 
+  * Statistics 
