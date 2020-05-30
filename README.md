@@ -4,7 +4,7 @@ numpy review with numpy_exercises (forked from Kyubyong/numpy_exercises)
 
 
   * Array creation routines (DONE) 2020-05-29
-  * Array manipulation routines 
+  * Array manipulation routines (DONE) 2020-05-30
   * String operations 
   * Numpy-specific help functions 
   * Input and output 
