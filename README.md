@@ -8,8 +8,8 @@ numpy review with numpy_exercises (forked from Kyubyong/numpy_exercises)
   * String operations (DONE) 2020-05-31
   * Numpy-specific help functions (DONE) 2020-05-31
   * Input and output (DONE) 2020-05-31
-  * Linear algebra 
-  * Discrete Fourier Transform 
+  * Linear algebra (DONE) 2020-06-02
+  * Discrete Fourier Transform (DONE) 2020-06-03
   * Logic functions 
   * Mathematical functions 
   * Random sampling (numpy.random)
