@@ -10,7 +10,7 @@ numpy review with numpy_exercises (forked from Kyubyong/numpy_exercises)
   * Input and output (DONE) 2020-05-31
   * Linear algebra (DONE) 2020-06-02
   * Discrete Fourier Transform (DONE) 2020-06-03
-  * Logic functions 
+  * Logic functions (DONE) 2020-06-04
   * Mathematical functions 
   * Random sampling (numpy.random)
   * Set routines 
