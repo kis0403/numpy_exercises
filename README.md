@@ -11,8 +11,8 @@ numpy review with numpy_exercises (forked from Kyubyong/numpy_exercises)
   * Linear algebra (DONE) 2020-06-02
   * Discrete Fourier Transform (DONE) 2020-06-03
   * Logic functions (DONE) 2020-06-04
-  * Mathematical functions 
-  * Random sampling (numpy.random)
-  * Set routines 
-  * Sorting, searching, and counting 
-  * Statistics 
+  * Mathematical functions (DONE) 2020-06-06
+  * Random sampling (numpy.random) (DONE) 2020-06-06
+  * Set routines (DONE) 2020-06-06
+  * Sorting, searching, and counting (DONE) 2020-06-06
+  * Statistics (DONE) 2020-06-06
